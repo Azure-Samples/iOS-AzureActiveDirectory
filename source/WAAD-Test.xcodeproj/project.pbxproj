@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		104E3A0E17EA4BE400D15DAD /* thirdparty.txt in Resources */ = {isa = PBXBuildFile; fileRef = 104E3A0D17EA4BE400D15DAD /* thirdparty.txt */; };
 		10E79A7917DFCB5B00005D1A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 10E79A7817DFCB5B00005D1A /* UIKit.framework */; };
 		10E79A7B17DFCB5B00005D1A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 10E79A7A17DFCB5B00005D1A /* Foundation.framework */; };
 		10E79A7D17DFCB5B00005D1A /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 10E79A7C17DFCB5B00005D1A /* CoreGraphics.framework */; };
@@ -25,6 +26,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		104E3A0D17EA4BE400D15DAD /* thirdparty.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = thirdparty.txt; sourceTree = "<group>"; };
 		10E79A7517DFCB5B00005D1A /* WAAD-Test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "WAAD-Test.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		10E79A7817DFCB5B00005D1A /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		10E79A7A17DFCB5B00005D1A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -131,6 +133,7 @@
 		10E79AF417E275B900005D1A /* ThirdParty */ = {
 			isa = PBXGroup;
 			children = (
+				104E3A0D17EA4BE400D15DAD /* thirdparty.txt */,
 			);
 			name = ThirdParty;
 			sourceTree = "<group>";
@@ -191,6 +194,7 @@
 				10E79A8D17DFCB5B00005D1A /* Default@2x.png in Resources */,
 				10E79A8F17DFCB5B00005D1A /* Default-568h@2x.png in Resources */,
 				10E79A9217DFCB5B00005D1A /* MainStoryboard.storyboard in Resources */,
+				104E3A0E17EA4BE400D15DAD /* thirdparty.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

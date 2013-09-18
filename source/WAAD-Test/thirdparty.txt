@@ -1,0 +1,13 @@
+In order for this application to compile, you'll need the following files:
+
+From the below URL, download the following:
+    NSData+Base64.h
+    NSData+Base64.m
+
+    http://www.cocoawithlove.com/2009/06/base64-encoding-options-on-mac-and.html
+
+From the below URL, download the following:
+    URLParser.h
+    URLParser.m
+    
+    http://dev.doukasd.com/2011/03/get-values-from-parameters-in-an-nsurl-string/
