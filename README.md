@@ -8,6 +8,12 @@ Below you will find requirements and deployment instructions.
 * XCode - This sample was built with XCode 5.0 and requires at least XCode 4.0 due to use of storyboards and ARC.
 * Windows Azure Account - Needed to create the Windows Azure Active Directory Account as well as to deploy the web service to Web Sites (if you choose to do so).  [Sign up for a free trial](https://www.windowsazure.com/en-us/pricing/free-trial/).
 
+## Third Party Code
+There are two different pieces of third party code you'll need to download in order to compile this sample.  Follow the links below and place the code files in your application:
+
+1.  NSData+Base64.h/.m can be downloaded from [this link](http://www.cocoawithlove.com/2009/06/base64-encoding-options-on-mac-and.html).
+1.  URLParser.h/.m can be downloaded from [this link](http://dev.doukasd.com/2011/03/get-values-from-parameters-in-an-nsurl-string/).
+
 ## Source Code Folders
 * /source/ - This contains code for the iOS Client application.
 
