@@ -1,3 +1,9 @@
+---
+services:
+platforms:
+author: azure
+---
+
 # iOS - Azure Active Directory Demo
 This is a sample which demonstrates how you an authenticate with Windows Azure Active Directory (WAAD) from an iOS application.  You will then use the access token retrieved from WAAD to gain access to a web service that has been secured with WAAD.
 
